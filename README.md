@@ -1,5 +1,5 @@
 - 👋 Hi! I’m Sola. 
-- 👀 I’m interested in product design, automation and machine learning especially deep learning and ensemble algorithms
+- 👀 I’m practice in product design, automation and machine learning especially deep learning and ensemble algorithms
 - 🌱 I’m currently learning how to build cross platform software with Flutter and Kotlin MultiPlatform
 - 💞️ I’m looking to collaborate on consumer-focused machine learning or digital product design projects
 - 🌍 Check out my portfolio: https://www.solaolawuyi.com
